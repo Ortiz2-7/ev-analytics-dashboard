@@ -1,4 +1,4 @@
-nteractive dashboard built with R Shiny to analyze 3,000 electric vehicle 
+Interactive dashboard built with R Shiny to analyze 3,000 electric vehicle 
 records across 25 variables — covering battery performance, CO2 emissions, 
 range, resale value, and regional distribution.
 
