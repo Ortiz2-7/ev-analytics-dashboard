@@ -2,11 +2,11 @@ Interactive dashboard built with R Shiny to analyze 3,000 electric vehicle
 records across 25 variables — covering battery performance, CO2 emissions, 
 range, resale value, and regional distribution.
 
-🔗 **Live Demo:** https://santi27.shinyapps.io/estadistica_descriptiva/
+ **Live Demo:** https://santi27.shinyapps.io/estadistica_descriptiva/
 
 ---
 
-## 📊 Features
+##  Features
 
 - **KPI cards** — avg range (374 km), battery health (85%), CO2 saved, resale value
 - **Distributions** — histograms and density plots per variable
@@ -19,7 +19,7 @@ range, resale value, and regional distribution.
 
 ---
 
-## 🛠️ Tech stack
+##  Tech stack
 
 | Tool | Use |
 |------|-----|
@@ -30,7 +30,7 @@ range, resale value, and regional distribution.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 **Electric Vehicle Analytics** — Yadav, Kaggle  
 3,000 observations · 25 variables  
@@ -39,7 +39,7 @@ Region, CO2_Saved, Resale_Value, Maintenance_Cost, Battery_Health
 
 ---
 
-## 🚀 Run locally
+##  Run locally
 ```r
 # Install dependencies
 install.packages(c("shiny", "ggplot2", "dplyr"))
